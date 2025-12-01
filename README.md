@@ -122,7 +122,7 @@ const richa = {
 
 I'm actively seeking opportunities to apply my knowledge and gain practical experience in the finance industry. Feel free to reach out!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-f4a5b8?style=for-the-badge)](https://portfolio-xi-ruby-73.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-f4a5b8?style=for-the-badge)](https://richa-k-portfolio.vercel.app/)
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-c8b6ff?style=for-the-badge)](mailto:richakandhway@gmail.com)
 
 </div>
