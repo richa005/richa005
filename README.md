@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F4A5B8&center=true&vCenter=true&random=false&width=500&lines=2nd+Year+Commerce+Student;Finance+%26+Accounting+Enthusiast;Quick+Learner+%7C+Team+Player;Building+My+Future+in+Finance" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-f4a5b8?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-xi-ruby-73.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f4a5b8?style=for-the-badge&logo=vercel&logoColor=black)](https://richa-k-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-c8b6ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:richakandhway@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richa-kandhway-782655330)
 
