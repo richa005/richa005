@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-f4a5b8?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-xi-ruby-73.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-c8b6ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:richakandhway@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richa-kandhway-782655330)
 
 </div>
 
@@ -67,30 +67,13 @@ const richa = {
 
 ## 📊 Currently Learning
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="48" height="48" alt="Excel"/>
-      <br><b>Advanced Excel</b>
-      <br><sub>Pivot Tables, Macros, Data Viz</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/48/000000/financial-growth-analysis.png" width="48" height="48" alt="Finance"/>
-      <br><b>Financial Modeling</b>
-      <br><sub>Valuation & Forecasting</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/48/000000/tax.png" width="48" height="48" alt="GST"/>
-      <br><b>GST & Taxation</b>
-      <br><sub>Practical Compliance</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" alt="Python"/>
-      <br><b>Python for Finance</b>
-      <br><sub>Data Analysis Basics</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 📊 Advanced Excel | 💹 Financial Modeling | 🧾 GST & Taxation |
+|:---:|:---:|:---:|
+| Pivot Tables, Macros, Data Viz | Valuation & Forecasting | Practical Compliance |
+
+</div>
 
 ---
 
