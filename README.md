@@ -29,7 +29,7 @@ const richa = {
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF">
 
 - 🎓 Currently pursuing **Bachelor of Commerce (B.Com)**
-- 📊 Passionate about **Finance, Accounting & Data Analysis**
+- 📊 Passionate about **Finance, Business & Data Analysis**
 - 📚 Always learning and improving my skills
 - 🎯 Goal: To excel in the finance industry
 - ⚡ Quick learner with strong analytical abilities
@@ -41,7 +41,7 @@ const richa = {
 
 <div align="center">
 
-### 📈 Finance & Accounting
+### 📈 Finance & Business
 ![Financial Accounting](https://img.shields.io/badge/Financial_Accounting-f4a5b8?style=for-the-badge)
 ![Cost Accounting](https://img.shields.io/badge/Cost_Accounting-c8b6ff?style=for-the-badge)
 ![Business Economics](https://img.shields.io/badge/Business_Economics-e8c872?style=for-the-badge)
@@ -49,7 +49,8 @@ const richa = {
 
 ### 💻 Software & Tools
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tally](https://img.shields.io/badge/Tally_ERP_9-f4a5b8?style=for-the-badge)
+![PowerBi]()
+![Tableu]()
 ![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
